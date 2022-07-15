@@ -1,12 +1,12 @@
 {
-    "name": "YVN",
-    "description": "Deploy YVN on Heroku.",
+    "name": "HNB",
+    "description": "Deploy HNB on Heroku.",
     "keywords": [
-        "YVN"
+        "HNB"
     ],
     "env": {
         "UUID": {
-            "description": "YVN UUID",
+            "description": "HNB UUID",
             "value": "32BFAEEF-E26B-407E-AEC5-0B2587D59113"
         },
         "TUNNEL_TOKEN": {
